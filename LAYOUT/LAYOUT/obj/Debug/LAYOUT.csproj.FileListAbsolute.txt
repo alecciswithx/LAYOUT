@@ -1,0 +1,14 @@
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\bin\Debug\LAYOUT.exe.config
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\bin\Debug\LAYOUT.exe
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\bin\Debug\LAYOUT.pdb
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csprojAssemblyReference.cache
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csproj.CoreCompileInputs.cache
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\obj\Debug\LAYOUT.exe
+D:\Canal YT\AleccisWithX\Videos\Curso C#\03-Entrada y salida por consola, titulos personalizados\LAYOUT\LAYOUT\obj\Debug\LAYOUT.pdb
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\bin\Debug\LAYOUT.exe.config
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\bin\Debug\LAYOUT.exe
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\bin\Debug\LAYOUT.pdb
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csprojAssemblyReference.cache
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csproj.CoreCompileInputs.cache
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.exe
+D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.pdb
