@@ -12,3 +12,10 @@ D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\
 D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csproj.CoreCompileInputs.cache
 D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.exe
 D:\Canal YT\AleccisWithX\Videos\Curso C#\6.- Primera clase  y namespaces\LAYOUT\LAYOUT\obj\Debug\LAYOUT.pdb
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csproj.CoreCompileInputs.cache
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\obj\Debug\LAYOUT.exe
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\obj\Debug\LAYOUT.pdb
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\bin\Debug\LAYOUT.exe.config
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\bin\Debug\LAYOUT.exe
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\bin\Debug\LAYOUT.pdb
+C:\Users\alexc\OneDrive\Documentos\GitHub\LAYOUT\LAYOUT\LAYOUT\obj\Debug\LAYOUT.csprojAssemblyReference.cache

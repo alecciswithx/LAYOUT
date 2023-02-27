@@ -3,37 +3,38 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace LAYOUT.Utilerias
 {
-    class Printer
+    static class Printer
     {
-        public void DrawDogMessage()
+        public static void DrawDogMessage()
         {
-            Console.WriteLine("          __   _,--=\"=--,_   __");
-            Console.WriteLine("         /  \\.\"    .-.    \"./  \\");
-            Console.WriteLine("        /  ,/  _   : :   _  \\/` \\");
-            Console.WriteLine("        \\  `| /o\\  :_:  /o\\ |\\__/");
-            Console.WriteLine("         `-'| :=\"~` _ `~\"=: |");
-            Console.WriteLine("            \\`     (_)     `/");
-            Console.WriteLine("    .-\" -.   \\      |      /   .- \"-.");
-            Console.WriteLine(".---{     }--|  /,.-'-.,\\  |--{     }---.");
-            Console.WriteLine(" )  (_)_)_)  \\_/`~-===-~`\\_/  (_(_(_)  (");
-            Console.WriteLine("============================================");
-            Console.WriteLine("||                                        ||");
-            Console.WriteLine("||        Suscribete a mi canal :3        ||");
-            Console.WriteLine("||  Pulsa enter para limpiar la pantala   ||");
-            Console.WriteLine("============================================");
-            Console.ReadKey();
-            Console.Clear();
+            WriteLine("          __   _,--=\"=--,_   __");
+            WriteLine("         /  \\.\"    .-.    \"./  \\");
+            WriteLine("        /  ,/  _   : :   _  \\/` \\");
+            WriteLine("        \\  `| /o\\  :_:  /o\\ |\\__/");
+            WriteLine("         `-'| :=\"~` _ `~\"=: |");
+            WriteLine("            \\`     (_)     `/");
+            WriteLine("    .-\" -.   \\      |      /   .- \"-.");
+            WriteLine(".---{     }--|  /,.-'-.,\\  |--{     }---.");
+            WriteLine(" )  (_)_)_)  \\_/`~-===-~`\\_/  (_(_(_)  (");
+            WriteLine("============================================");
+            WriteLine("||                                        ||");
+            WriteLine("||        Suscribete a mi canal :3        ||");
+            WriteLine("||  Pulsa enter para limpiar la pantala   ||");
+            WriteLine("============================================");
+            ReadKey();
+            Clear();
         }
 
-        public void PrintTitle(string ptitulo)
+        public static  void PrintTitle(string ptitulo)
         {
             string tituloFormateado = $"************* {ptitulo} *************";
-            Console.WriteLine("".PadLeft(tituloFormateado.Length, '='));
-            Console.WriteLine(tituloFormateado);
-            Console.WriteLine("".PadRight(tituloFormateado.Length, '='));
+            WriteLine("".PadLeft(tituloFormateado.Length, '='));
+            WriteLine(tituloFormateado);
+            WriteLine("".PadRight(tituloFormateado.Length, '='));
         }
     }
 }
